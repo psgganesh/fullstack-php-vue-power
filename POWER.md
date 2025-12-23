@@ -3,7 +3,7 @@ name: "fullstack-php-vue-power"
 displayName: "Fullstack PHP Vue Power"
 description: "Build Single-Page Applications with Vuetify 3 frontend and Laravel API backend. Generates project structure, design docs, database schemas, and deployment guides."
 keywords: ["vuetify", "laravel", "spa", "vue", "pinia", "sqlite", "api", "php", "fullstack"]
-author: "Shankar <gnshnk@amazon.com>"
+author: "Shankar <psgganesh@gmail.com>"
 ---
 
 # Fullstack PHP Vue Power
