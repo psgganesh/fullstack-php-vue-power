@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "laravel-docs": {
+      "url": "https://gitmcp.io/laravel/docs"
+    },
+    "vuetify-docs": {
+      "url": "https://gitmcp.io/vuetifyjs/vuetify/tree/master/packages/docs"
+    },
+    "vuetify-mcp": {
+      "url": "https://mcp.vuetifyjs.com/mcp"
+    }
+  }
+}
